@@ -45,7 +45,7 @@ $ sudo apt-get install libupm-dev
 # 3. Building and Running:
 
 ```
-$ git clone https://github.com/96boards/projects.git      
+$ git clone https://github.com/96boards-projects/hourglass.git      
 $ cd projects	
 $ cd hourglass																													
 $ make																															
