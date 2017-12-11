@@ -6,7 +6,7 @@ TARGETS := hourglass
 all: $(TARGETS)
 
 hourglass:
-	@$(CC) $(CFLAGS) hourglass.cpp -o hourglass $(LDFLAGS)
+	@$(CC) $(CFLAGS) src/hourglass.cpp -o hourglass $(LDFLAGS)
 
 clean:
-	rm -f $(TARGETS)
+	@rm -f $(TARGETS)

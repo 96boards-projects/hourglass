@@ -1,5 +1,5 @@
 /*
- * Digital Hourglass
+ * Title: Digital Hourglass using 96Boards CE
  * Author: Radhika Paralkar
  * Copyright (c) 2017 Linaro Ltd.
  * All rights reserved.
